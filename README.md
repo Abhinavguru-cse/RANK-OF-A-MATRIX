@@ -1,5 +1,5 @@
 # RANK-OF-A-MATRIX
-## Aim:
+## Aim:To write a python program to find a solution to a system of linear equations.
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
 1. 	Hardware – PCs
